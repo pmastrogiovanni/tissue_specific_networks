@@ -8,4 +8,4 @@ In this project, we attempted to infer tissue-specific networks starting from si
 
 Resulting networks were analysed mainly to assess coverage, statistical significance, and biological specificity. Coverage was addressed by evaluating network features, such as dimension and node connectivity, after filtering for high confidence links. By computing similarity measures between networks for nodes, edges and significantly connected pathways, we highlighted differences in their overall gene interactions, showing the feasibility of this approach. 
 
-Whileacknowledging the current limitations, such as the lack of a state-of-the-art approach for scRNA-seq quality control and the overall poor data availability, this research provides a foundation for future investigations.
+While acknowledging the current limitations, such as the lack of a state-of-the-art approach for scRNA-seq quality control and the overall poor data availability, this research provides a foundation for future investigations.
